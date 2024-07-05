@@ -24,6 +24,7 @@ Configurar el Scraping: Ajusta las configuraciones según sea necesario, como lo
 
 Iniciar el Scraping: Ejecuta el proceso de scraping y guarda los datos extraídos en el formato deseado.
 Contribuciones
+
 ¡Las contribuciones son bienvenidas! Si tienes mapas de sitios adicionales o mejoras a los existentes, no dudes en hacer un fork del repositorio y enviar un pull request. Por favor, asegúrate de seguir las directrices de contribución incluidas en la documentación.
 
 Licencia
