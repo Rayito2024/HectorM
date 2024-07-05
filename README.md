@@ -3,6 +3,7 @@ Este repositorio contiene una colección de mapas de sitios creados utilizando W
 Contenido del Repositorio
 
 Mapas de Sitios: Archivos JSON que definen las estructuras de navegación y extracción de datos para diferentes sitios web.
+
 Documentación: Instrucciones detalladas sobre cómo utilizar cada mapa de sitio, incluyendo ejemplos de uso y configuraciones recomendadas.
 Ejemplos de Extracciones: Resultados de datos extraídos utilizando los mapas de sitios, presentados en formatos como CSV o JSON.
 Scripts de Automatización: Scripts en Python o JavaScript para la automatización del proceso de scraping utilizando Web Scraper.
