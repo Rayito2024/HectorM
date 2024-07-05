@@ -1,6 +1,7 @@
 Este repositorio contiene una colección de mapas de sitios creados utilizando Web Scraper, una herramienta poderosa para la extracción de datos de páginas web. Los mapas de sitios incluidos aquí son diseñados para facilitar la navegación y la extracción de datos de diversos sitios web.
 
 Contenido del Repositorio
+
 Mapas de Sitios: Archivos JSON que definen las estructuras de navegación y extracción de datos para diferentes sitios web.
 Documentación: Instrucciones detalladas sobre cómo utilizar cada mapa de sitio, incluyendo ejemplos de uso y configuraciones recomendadas.
 Ejemplos de Extracciones: Resultados de datos extraídos utilizando los mapas de sitios, presentados en formatos como CSV o JSON.
